@@ -1,0 +1,10 @@
+{
+  "name": "toosh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.4.1",
+    "openzeppelin-solidity": "^4.4.1"
+  }
+}
